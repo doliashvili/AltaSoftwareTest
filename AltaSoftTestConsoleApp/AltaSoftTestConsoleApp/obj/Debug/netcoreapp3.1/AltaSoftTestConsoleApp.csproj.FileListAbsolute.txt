@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\bin\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.exe
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\bin\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.deps.json
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\bin\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.runtimeconfig.json
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\bin\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\bin\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.dll
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\bin\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.pdb
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\obj\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\obj\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\obj\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.AssemblyInfo.cs
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\obj\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\obj\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.dll
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\obj\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.pdb
+C:\Users\user\source\repos\AltaSoftTestConsoleApp\AltaSoftTestConsoleApp\obj\Debug\netcoreapp3.1\AltaSoftTestConsoleApp.genruntimeconfig.cache
